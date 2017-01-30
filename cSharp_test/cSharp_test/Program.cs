@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace cSharp_test
 {
     class Program
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
